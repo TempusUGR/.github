@@ -40,7 +40,7 @@ El backend sigue una **arquitectura de microservicios**, descomponiendo la aplic
 
 La comunicación entre los servicios se realiza de forma **síncrona mediante una API REST** y de forma **asíncrona a través de un bus de mensajes con RabbitMQ**. Un **API Gateway** actúa como punto de entrada único para todas las peticiones, gestionando el enrutamiento y la seguridad.
 
-![Arquitectura general del Backend]([https://i.imgur.com/G4nS23N.png](https://drive.google.com/file/d/1Xc4zPkO5o3ZRrDZddOkhBNByo8Ul_7Sk/view?usp=drive_link))
+![Arquitectura general del Backend]([https://drive.google.com/file/d/1Xc4zPkO5o3ZRrDZddOkhBNByo8Ul_7Sk/view?usp=drive_link])
 
 ---
 
