@@ -46,7 +46,7 @@ La comunicación entre los servicios se realiza de forma **síncrona mediante un
 
 ## Repositorios del Proyecto
 
-El código del proyecto está organizado en varios repositorios dentro de la organización de GitHub [TempusUGR](https://github.com/TempusUGR)[cite: 1602].
+El código del proyecto está organizado en varios repositorios dentro de la organización de GitHub [TempusUGR](https://github.com/TempusUGR).
 
 ### **Frontend**
 * [**frontend-repo**](https://github.com/TempusUGR/frontend-repo): Contiene el código fuente de la aplicación cliente desarrollada con Angular.
